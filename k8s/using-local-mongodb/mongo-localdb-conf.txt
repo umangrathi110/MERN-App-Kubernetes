@@ -1,0 +1,2 @@
+user: bW9uZ291c2Vy | mongouser
+password: bW9uZ29wYXNzd29yZA== | mongopassword
